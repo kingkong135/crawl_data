@@ -1,0 +1,1921 @@
+1638436990283	geckodriver	INFO	Listening on 127.0.0.1:60813
+1638436990287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36467" "-no-remote" "-profile" "/tmp/rust_mozprofilemAP6Qi"
+1638436991463	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemAP6Qi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36467/devtools/browser/11e236fa-17c1-4ab7-841d-1d1589fda518
+1638436992985	Marionette	INFO	Listening on port 36631
+1638436993014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1638436994372	Marionette	INFO	Stopped listening on port 36631
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638437038150	geckodriver	INFO	Listening on 127.0.0.1:53029
+1638437038156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35887" "-no-remote" "-profile" "/tmp/rust_mozprofiled56dOc"
+1638437038908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled56dOc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35887/devtools/browser/6f07f01b-5b39-40eb-8ef5-b552e2edbca6
+1638437040120	Marionette	INFO	Listening on port 41271
+1638437040172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+1638437054426	Marionette	INFO	Stopped listening on port 41271
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638437069485	geckodriver	INFO	Listening on 127.0.0.1:57865
+1638437069489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54341" "-no-remote" "-profile" "/tmp/rust_mozprofilerNjveC"
+1638437070268	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerNjveC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54341/devtools/browser/d66de6f4-2fd7-4b90-9598-5802d7813f80
+1638437071677	Marionette	INFO	Listening on port 42105
+1638437071706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+1638437080704	Marionette	INFO	Stopped listening on port 42105
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638437674417	geckodriver	INFO	Listening on 127.0.0.1:59309
+1638437674421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37649" "-no-remote" "-profile" "/tmp/rust_mozprofile7vODDe"
+1638437675315	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7vODDe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37649/devtools/browser/6a9910c8-e2e8-43cd-a10d-b4de330f1b7f
+1638437676485	Marionette	INFO	Listening on port 38805
+1638437676537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638437702478	Marionette	INFO	Stopped listening on port 38805
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638437708000	geckodriver	INFO	Listening on 127.0.0.1:52247
+1638437708004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51141" "-no-remote" "-profile" "/tmp/rust_mozprofileofZrax"
+1638437708795	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileofZrax/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51141/devtools/browser/dfc2c289-0043-4da8-a7b8-20639affcd5e
+1638437709953	Marionette	INFO	Listening on port 39331
+1638437710027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638438049870	Marionette	INFO	Stopped listening on port 39331
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638438108126	geckodriver	INFO	Listening on 127.0.0.1:56149
+1638438108130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57737" "-no-remote" "-profile" "/tmp/rust_mozprofile0Q4HJo"
+1638438108918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0Q4HJo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57737/devtools/browser/5f187864-153d-4552-b439-93e9c454b259
+1638438110239	Marionette	INFO	Listening on port 39889
+1638438110373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638438115361	Marionette	INFO	Stopped listening on port 39889
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638438271880	geckodriver	INFO	Listening on 127.0.0.1:55823
+1638438271884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58093" "-no-remote" "-profile" "/tmp/rust_mozprofilelvss5c"
+1638438272745	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelvss5c/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58093/devtools/browser/35233866-d298-4c27-a7c1-b2f48956a845
+1638438274085	Marionette	INFO	Listening on port 38681
+1638438274110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638439033995	geckodriver	INFO	Listening on 127.0.0.1:47705
+1638439033999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34311" "-no-remote" "-profile" "/tmp/rust_mozprofile4lLa6r"
+1638439034852	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4lLa6r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34311/devtools/browser/eda53741-1d81-43e7-aba3-6ce12a147e16
+1638439036300	Marionette	INFO	Listening on port 40353
+1638439036324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638439047019	Marionette	INFO	Stopped listening on port 40353
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638439063245	geckodriver	INFO	Listening on 127.0.0.1:43493
+1638439063248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44725" "-no-remote" "-profile" "/tmp/rust_mozprofileBkFs1X"
+1638439064077	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBkFs1X/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44725/devtools/browser/92064299-e502-48c7-a102-47c59c22d72a
+1638439065304	Marionette	INFO	Listening on port 45119
+1638439065370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1638439080194	Marionette	INFO	Stopped listening on port 45119
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638439095361	geckodriver	INFO	Listening on 127.0.0.1:56037
+1638439095366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55663" "-no-remote" "-profile" "/tmp/rust_mozprofilePyPQlu"
+1638439096181	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePyPQlu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55663/devtools/browser/a29fbfd1-371d-4779-b8f7-a3ff6f0643f9
+1638439097447	Marionette	INFO	Listening on port 45247
+1638439097483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638439106026	Marionette	INFO	Stopped listening on port 45247
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1638439612761	geckodriver	INFO	Listening on 127.0.0.1:47831
+1638439612776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50871" "-no-remote" "-profile" "/tmp/rust_mozprofile8ZQngJ"
+1638439613635	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8ZQngJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50871/devtools/browser/31c3940a-bb9d-43df-9ab4-2a632c4d4233
+1638439614738	Marionette	INFO	Listening on port 46349
+1638439614815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8060671565650048, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8060671565650048, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5938244602911675, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5938244602911675, line 3: unreachable code after return statement
+JavaScript error: https://s0.2mdn.net/sadbundle/2741787489546010624/HDBANK_CPM_2411_1160x250.html, line 177: TypeError: cjs.MovieClip is not a constructor
+JavaScript error: https://s0.2mdn.net/sadbundle/2741787489546010624/HDBANK_CPM_2411_1160x250.html, line 32: TypeError: AdobeAn.getComposition is not a function
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4Sfc45HFswufgCf8fQCX22Ys6cavju9jIH_-ShQytV0.js line 1 > eval line 6929 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638439673651	Marionette	INFO	Stopped listening on port 46349
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638440827128	geckodriver	INFO	Listening on 127.0.0.1:44243
+1638440827133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45121" "-no-remote" "-profile" "/tmp/rust_mozprofilepOpQee"
+1638440827889	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepOpQee/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45121/devtools/browser/7e9986cd-c02f-4f36-984c-ec1ee32cfdf1
+1638440828969	Marionette	INFO	Listening on port 46459
+1638440829048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.059743750795326234, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.059743750795326234, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.412119751269153, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.412119751269153, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+1638440834678	Marionette	INFO	Stopped listening on port 46459
+1638440933271	geckodriver	INFO	Listening on 127.0.0.1:58587
+1638440933275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59565" "-no-remote" "-profile" "/tmp/rust_mozprofilebdKUGj"
+1638440934056	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebdKUGj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59565/devtools/browser/f9590083-ad76-475a-8bd1-b0dc42775da8
+1638440935276	Marionette	INFO	Listening on port 39455
+1638440935296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9279516134467325, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9279516134467325, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.611401467489362, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.611401467489362, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638440964954	geckodriver	INFO	Listening on 127.0.0.1:60905
+1638440964958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50485" "-no-remote" "-profile" "/tmp/rust_mozprofileyIVl6l"
+1638440965778	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyIVl6l/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50485/devtools/browser/75076344-76b7-4e12-9b0d-4101aa7f3a20
+1638440967253	Marionette	INFO	Listening on port 39981
+1638440967278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6574316144972919, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6574316144972919, line 3: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9664973277306834, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9664973277306834, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638441124891	Marionette	INFO	Stopped listening on port 39981
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638441213464	Marionette	INFO	Stopped listening on port 39455
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638494008621	geckodriver	INFO	Listening on 127.0.0.1:47255
+1638494008626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "34359" "-no-remote" "-profile" "/tmp/rust_mozprofile491LEA"
+*** You are running in headless mode.
+1638494009069	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile491LEA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34359/devtools/browser/1b9d5cef-6f31-4d39-9051-05a0528051c8
+1638494010160	Marionette	INFO	Listening on port 33639
+1638494010242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4062663730152031, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4062663730152031, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8083863856481696, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8083863856481696, line 3: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638494017674	Marionette	INFO	Stopped listening on port 33639
+1638494088902	geckodriver	INFO	Listening on 127.0.0.1:48889
+1638494088906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "49511" "-no-remote" "-profile" "/tmp/rust_mozprofileE8SqWF"
+*** You are running in headless mode.
+1638494089344	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE8SqWF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49511/devtools/browser/33eca9f7-f960-4d4f-a179-212114ce8c8b
+1638494090281	Marionette	INFO	Listening on port 35825
+1638494090322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.03258991631379993, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.03258991631379993, line 3: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.2339491837328037, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.2339491837328037, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+1638494113032	Marionette	INFO	Stopped listening on port 35825
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1638494227271	geckodriver	INFO	Listening on 127.0.0.1:43809
+1638494227275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "40583" "-no-remote" "-profile" "/tmp/rust_mozprofilecqUZP5"
+*** You are running in headless mode.
+1638494227721	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecqUZP5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40583/devtools/browser/601d75ca-3440-4d75-8364-47ddd6cbd7d0
+1638494228721	Marionette	INFO	Listening on port 42153
+1638494228799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3748935986453866, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3748935986453866, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.7626917270184621, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.7626917270184621, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638494252382	Marionette	INFO	Stopped listening on port 42153
+1638494465673	geckodriver	INFO	Listening on 127.0.0.1:56025
+1638494465677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "52159" "-no-remote" "-profile" "/tmp/rust_mozprofileUadTfR"
+*** You are running in headless mode.
+1638494466115	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUadTfR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52159/devtools/browser/ba038c3a-dd2f-4fd2-b90e-6bb142898006
+1638494467126	Marionette	INFO	Listening on port 36625
+1638494467197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3298023282974989, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3298023282974989, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.16802821946368773, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.16802821946368773, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638494501772	geckodriver	INFO	Listening on 127.0.0.1:35405
+1638494501776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "54205" "-no-remote" "-profile" "/tmp/rust_mozprofilecmDdaS"
+*** You are running in headless mode.
+1638494502215	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecmDdaS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54205/devtools/browser/cc73da70-f24a-4e4b-a077-f678bb80703d
+1638494503249	Marionette	INFO	Listening on port 37853
+1638494503915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.629037867958664, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.629037867958664, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.007988779396889356, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.007988779396889356, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638494526948	geckodriver	INFO	Listening on 127.0.0.1:45651
+1638494526953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "56181" "-no-remote" "-profile" "/tmp/rust_mozprofilelMi839"
+*** You are running in headless mode.
+1638494527374	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelMi839/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56181/devtools/browser/5209704d-c9d9-4844-9b9d-dd13bcfdfac4
+1638494528328	Marionette	INFO	Listening on port 36737
+1638494528369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9737876057475704, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9737876057475704, line 3: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5559908464116782, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5559908464116782, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638494535207	Marionette	INFO	Stopped listening on port 36737
+1638494610030	geckodriver	INFO	Listening on 127.0.0.1:48795
+1638494610034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "56829" "-no-remote" "-profile" "/tmp/rust_mozprofileyTel7j"
+*** You are running in headless mode.
+1638494610446	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyTel7j/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56829/devtools/browser/e837cbc3-b031-4e5c-a03d-be569e538e97
+1638494611330	Marionette	INFO	Listening on port 39951
+1638494611362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8063192324955545, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8063192324955545, line 3: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3615851123307803, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3615851123307803, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638494618422	Marionette	INFO	Stopped listening on port 39951
+[Parent 66780, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HSiFn6/firefox-94.0+build3/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638494633720	geckodriver	INFO	Listening on 127.0.0.1:46971
+1638494633724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "59383" "-no-remote" "-profile" "/tmp/rust_mozprofile5nXMB5"
+*** You are running in headless mode.
+1638494634164	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5nXMB5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59383/devtools/browser/562c278b-1b49-4e56-84cb-8c42eb5286eb
+1638494635085	Marionette	INFO	Listening on port 40153
+1638494635140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4674395592813554, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4674395592813554, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.972005671291133, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.972005671291133, line 3: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638494646465	Marionette	INFO	Stopped listening on port 40153
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x570018,name=PHal::Msg_UnlockScreenOrientation) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x570018,name=PHal::Msg_UnlockScreenOrientation) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638494737788	geckodriver	INFO	Listening on 127.0.0.1:32807
+1638494737793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "47279" "-no-remote" "-profile" "/tmp/rust_mozprofile0Pqg5Q"
+*** You are running in headless mode.
+1638494738197	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0Pqg5Q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47279/devtools/browser/8d2e16ef-913c-4ed3-95b3-29f4b2e0f9f4
+1638494739188	Marionette	INFO	Listening on port 41967
+1638494739223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9110146485948535, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9110146485948535, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.444535662202869, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.444535662202869, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638494750131	Marionette	INFO	Stopped listening on port 41967
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638494785818	geckodriver	INFO	Listening on 127.0.0.1:44021
+1638494785822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "36547" "-no-remote" "-profile" "/tmp/rust_mozprofileZS6es9"
+*** You are running in headless mode.
+1638494786261	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZS6es9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36547/devtools/browser/2796d3ee-ea97-48bf-a087-45f891cb0d8b
+1638494787301	Marionette	INFO	Listening on port 36311
+1638494787338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6582421266581869, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6582421266581869, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8808668181105636, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8808668181105636, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638494797444	Marionette	INFO	Stopped listening on port 36311
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638494922197	geckodriver	INFO	Listening on 127.0.0.1:42321
+1638494922201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "41145" "-no-remote" "-profile" "/tmp/rust_mozprofilexyj4TT"
+*** You are running in headless mode.
+1638494922653	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexyj4TT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41145/devtools/browser/dc277d01-10b3-43f9-a55a-a617c9d7ec5d
+1638494923549	Marionette	INFO	Listening on port 35309
+1638494923641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638494935882	Marionette	INFO	Stopped listening on port 35309
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638495024097	geckodriver	INFO	Listening on 127.0.0.1:37211
+1638495024101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "57165" "-no-remote" "-profile" "/tmp/rust_mozprofilec9w614"
+*** You are running in headless mode.
+1638495024543	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec9w614/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57165/devtools/browser/4139930d-5db5-4068-b76e-9216ac93c7a5
+1638495025472	Marionette	INFO	Listening on port 40887
+1638495025567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8421949355712812, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8421949355712812, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9171292278077514, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9171292278077514, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638495049602	geckodriver	INFO	Listening on 127.0.0.1:33527
+1638495049606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "42529" "-no-remote" "-profile" "/tmp/rust_mozprofileSp39Mt"
+*** You are running in headless mode.
+1638495050094	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSp39Mt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42529/devtools/browser/16126074-1176-4f52-abe4-9c9ece79df21
+1638495051043	Marionette	INFO	Listening on port 38469
+1638495051760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5880499584557545, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5880499584557545, line 3: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3827229509959216, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3827229509959216, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638495166987	geckodriver	INFO	Listening on 127.0.0.1:52489
+1638495166991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "43415" "-no-remote" "-profile" "/tmp/rust_mozprofilenmYTGn"
+*** You are running in headless mode.
+1638495167451	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenmYTGn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43415/devtools/browser/9763b779-69e2-48cc-adfe-e5ff952d9e52
+1638495168365	Marionette	INFO	Listening on port 46681
+1638495168407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6966799383771931, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6966799383771931, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8899253307683685, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8899253307683685, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638495178721	Marionette	INFO	Stopped listening on port 46681
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638495404488	geckodriver	INFO	Listening on 127.0.0.1:47281
+1638495404492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "53097" "-no-remote" "-profile" "/tmp/rust_mozprofilepZrz0X"
+*** You are running in headless mode.
+1638495404918	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepZrz0X/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53097/devtools/browser/efbceb65-83c8-49e5-aaca-f699d26848ac
+1638495405871	Marionette	INFO	Listening on port 46009
+1638495405916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9268802100694356, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9268802100694356, line 3: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.721779812357525, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.721779812357525, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638495551961	geckodriver	INFO	Listening on 127.0.0.1:45935
+1638495551966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "36287" "-no-remote" "-profile" "/tmp/rust_mozprofileBZeEIU"
+*** You are running in headless mode.
+1638495552414	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBZeEIU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36287/devtools/browser/c6ad6606-e649-44b7-9986-5a2f5b882026
+1638495553461	Marionette	INFO	Listening on port 45419
+1638495553483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.2595868540390752, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.2595868540390752, line 3: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8929393649518294, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8929393649518294, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638495622377	geckodriver	INFO	Listening on 127.0.0.1:39095
+1638495622381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "49865" "-no-remote" "-profile" "/tmp/rust_mozprofileuKglee"
+*** You are running in headless mode.
+1638495622820	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuKglee/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49865/devtools/browser/e6bf3c75-323f-4be6-b0e4-d4fe3d2c4396
+1638495623846	Marionette	INFO	Listening on port 33903
+1638495623897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6333379136490388, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6333379136490388, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.618760501610529, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.618760501610529, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638495638418	Marionette	INFO	Stopped listening on port 33903
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638495869821	geckodriver	INFO	Listening on 127.0.0.1:58241
+1638495869826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "47901" "-no-remote" "-profile" "/tmp/rust_mozprofileoy0BB1"
+*** You are running in headless mode.
+1638495870263	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoy0BB1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47901/devtools/browser/95cbbb7f-5a31-4702-8901-55e54f1754ef
+1638495871194	Marionette	INFO	Listening on port 34713
+1638495871283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.7217148371574659, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.7217148371574659, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6054439249505031, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6054439249505031, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638495882088	Marionette	INFO	Stopped listening on port 34713
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638496673302	geckodriver	INFO	Listening on 127.0.0.1:41565
+1638496673306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "41137" "-no-remote" "-profile" "/tmp/rust_mozprofilel463rA"
+*** You are running in headless mode.
+1638496673762	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel463rA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41137/devtools/browser/065110ea-9459-4b75-acfa-cc5bf37819ef
+1638496674940	Marionette	INFO	Listening on port 40343
+1638496675035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.21484554956525115, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.21484554956525115, line 3: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6302845891997944, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6302845891997944, line 3: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638496763631	geckodriver	INFO	Listening on 127.0.0.1:43281
+1638496763635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "56891" "-no-remote" "-profile" "/tmp/rust_mozprofileLtSl6G"
+*** You are running in headless mode.
+1638496764059	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLtSl6G/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56891/devtools/browser/5ba9ae4c-dca3-4a2b-95ad-9f91f294ca74
+1638496765144	Marionette	INFO	Listening on port 44815
+1638496765252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5058568933989083, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5058568933989083, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.2073727805802057, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.2073727805802057, line 3: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638496789318	Marionette	INFO	Stopped listening on port 44815
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638496839455	geckodriver	INFO	Listening on 127.0.0.1:55751
+1638496839459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "59675" "-no-remote" "-profile" "/tmp/rust_mozprofileLXLYIO"
+*** You are running in headless mode.
+1638496839923	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLXLYIO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59675/devtools/browser/e56712ab-0ea5-4c5e-bac2-c221136385f6
+1638496840920	Marionette	INFO	Listening on port 44995
+1638496841638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3065033585552852, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3065033585552852, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5374631491088043, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5374631491088043, line 3: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638496864978	Marionette	INFO	Stopped listening on port 44995
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+[Parent 75486, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HSiFn6/firefox-94.0+build3/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638497406729	geckodriver	INFO	Listening on 127.0.0.1:52435
+1638497406734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "48039" "-no-remote" "-profile" "/tmp/rust_mozprofileblsWIz"
+*** You are running in headless mode.
+1638497407181	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileblsWIz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48039/devtools/browser/5668f2cd-c0f8-4bc1-b5c4-a7ffd7f58c43
+1638497408157	Marionette	INFO	Listening on port 36675
+1638497408249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.026892170052777553, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.026892170052777553, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9348005083534345, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9348005083534345, line 3: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638497431391	Marionette	INFO	Stopped listening on port 36675
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638497659685	geckodriver	INFO	Listening on 127.0.0.1:38431
+1638497659689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "48325" "-no-remote" "-profile" "/tmp/rust_mozprofileNTLbfh"
+*** You are running in headless mode.
+1638497660133	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNTLbfh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48325/devtools/browser/440cdfaa-779d-41e2-9cfc-0b6e577ada38
+1638497661133	Marionette	INFO	Listening on port 36013
+1638497661238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8242196858739183, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8242196858739183, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6998018834874107, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6998018834874107, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638497684757	Marionette	INFO	Stopped listening on port 36013
+1638498447965	geckodriver	INFO	Listening on 127.0.0.1:57769
+1638498447970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "38307" "-no-remote" "-profile" "/tmp/rust_mozprofilebHMsQy"
+*** You are running in headless mode.
+1638498448410	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebHMsQy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38307/devtools/browser/ab92d31f-09ff-401d-8dd0-b77a0cb97a8e
+1638498449382	Marionette	INFO	Listening on port 45559
+1638498450104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.767263653701433, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.767263653701433, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9325125571935441, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9325125571935441, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4Sfc45HFswufgCf8fQCX22Ys6cavju9jIH_-ShQytV0.js line 1 > eval line 7789 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4Sfc45HFswufgCf8fQCX22Ys6cavju9jIH_-ShQytV0.js line 1 > eval line 300 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4Sfc45HFswufgCf8fQCX22Ys6cavju9jIH_-ShQytV0.js line 1 > eval line 2734 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638498476344	Marionette	INFO	Stopped listening on port 45559
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 79191, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HSiFn6/firefox-94.0+build3/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+1638498587910	geckodriver	INFO	Listening on 127.0.0.1:49495
+1638498587914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "45537" "-no-remote" "-profile" "/tmp/rust_mozprofile9VQShl"
+*** You are running in headless mode.
+1638498588355	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9VQShl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45537/devtools/browser/f5dafbdb-fbde-4015-8a4c-2fc450717233
+1638498589342	Marionette	INFO	Listening on port 35827
+1638498589432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638498692342	geckodriver	INFO	Listening on 127.0.0.1:38663
+1638498692346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "47657" "-no-remote" "-profile" "/tmp/rust_mozprofile3GQGuI"
+*** You are running in headless mode.
+1638498692781	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3GQGuI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47657/devtools/browser/bfeae7ea-124c-4253-8b7a-5b90b0ee4fce
+1638498693798	Marionette	INFO	Listening on port 45649
+1638498693862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6811262799554383, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6811262799554383, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8473746091740587, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8473746091740587, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638498717154	Marionette	INFO	Stopped listening on port 45649
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638498751473	geckodriver	INFO	Listening on 127.0.0.1:58757
+1638498751477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "40073" "-no-remote" "-profile" "/tmp/rust_mozprofileNwGF1i"
+*** You are running in headless mode.
+1638498751893	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNwGF1i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40073/devtools/browser/4000ba0b-92b7-4607-97a8-5aa5dba88ab3
+1638498752937	Marionette	INFO	Listening on port 44537
+1638498752994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4663962200341988, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4663962200341988, line 3: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.09526005211809452, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.09526005211809452, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638498776363	Marionette	INFO	Stopped listening on port 44537
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638498909840	geckodriver	INFO	Listening on 127.0.0.1:59909
+1638498909844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38953" "-no-remote" "-profile" "/tmp/rust_mozprofilelatgea"
+1638498910731	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelatgea/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38953/devtools/browser/2a410616-c9af-4626-b472-222206a9dd05
+1638498911885	Marionette	INFO	Listening on port 38981
+1638498911961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VIC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638498983432	Marionette	INFO	Stopped listening on port 38981
+1638499003136	geckodriver	INFO	Listening on 127.0.0.1:43459
+1638499003141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34471" "-no-remote" "-profile" "/tmp/rust_mozprofileEIUYia"
+1638499003967	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEIUYia/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34471/devtools/browser/5c4311d0-b125-46d0-b846-d1b019edb313
+1638499005159	Marionette	INFO	Listening on port 42193
+1638499005269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HSG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HSG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638499079508	Marionette	INFO	Stopped listening on port 42193
+1638499387917	geckodriver	INFO	Listening on 127.0.0.1:37215
+1638499387921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "49007" "-no-remote" "-profile" "/tmp/rust_mozprofilen3UeeO"
+*** You are running in headless mode.
+1638499388343	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilen3UeeO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49007/devtools/browser/da4c90e7-08e5-4034-bab5-6cd47f64865c
+1638499389314	Marionette	INFO	Listening on port 45447
+1638499389338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.07490955681181, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.07490955681181, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5654408454710459, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5654408454710459, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638499458324	geckodriver	INFO	Listening on 127.0.0.1:50301
+1638499458328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "35063" "-no-remote" "-profile" "/tmp/rust_mozprofileoDOWlE"
+*** You are running in headless mode.
+1638499458777	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoDOWlE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35063/devtools/browser/8e61d199-b1cc-45cf-a3e0-0cfb89152b59
+1638499459822	Marionette	INFO	Listening on port 42483
+1638499459845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.030456743807428355, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.030456743807428355, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.992950025527841, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.992950025527841, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HSG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HSG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HSG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HSG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638499487055	Marionette	INFO	Stopped listening on port 42483
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638499506141	geckodriver	INFO	Listening on 127.0.0.1:47963
+1638499506146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "41267" "-no-remote" "-profile" "/tmp/rust_mozprofileEfXlyu"
+*** You are running in headless mode.
+1638499506585	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEfXlyu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41267/devtools/browser/fcc69158-fefa-4d7d-a29b-ec2cee066a57
+1638499507539	Marionette	INFO	Listening on port 45015
+1638499507612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HSG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HSG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638499536889	Marionette	INFO	Stopped listening on port 45015
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638499680469	geckodriver	INFO	Listening on 127.0.0.1:42403
+1638499680474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "41151" "-no-remote" "-profile" "/tmp/rust_mozprofileLSrrCJ"
+*** You are running in headless mode.
+1638499680897	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLSrrCJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41151/devtools/browser/32163cf6-af0c-4420-ae1b-9a6c33287175
+1638499681993	Marionette	INFO	Listening on port 44787
+1638499682090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.569101257092432, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.569101257092432, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.7126993722328216, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.7126993722328216, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-G36-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638499688796	Marionette	INFO	Stopped listening on port 38681
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638499748773	Marionette	INFO	Stopped listening on port 44787
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638500736971	geckodriver	INFO	Listening on 127.0.0.1:34623
+1638500736975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "45353" "-no-remote" "-profile" "/tmp/rust_mozprofileeCcPRw"
+*** You are running in headless mode.
+1638500737417	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeCcPRw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45353/devtools/browser/2f9e277c-719c-4785-acaa-e98b747425a0
+1638500738416	Marionette	INFO	Listening on port 41699
+1638500738491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638500738502	Marionette	INFO	Stopped listening on port 41699
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1638507365824	geckodriver	INFO	Listening on 127.0.0.1:44333
+1638507366332	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "52555" "-no-remote" "-profile" "/tmp/rust_mozprofileNhbCt5"
+*** You are running in headless mode.
+1638507366854	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNhbCt5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52555/devtools/browser/53616132-f6d4-4357-93c5-529dfea1790f
+1638507367794	Marionette	INFO	Listening on port 36217
+1638507367878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4949944286416065, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4949944286416065, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.12940913925502473, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.12940913925502473, line 3: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-POM-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-POM-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-POM-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-POM-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1638509581750	geckodriver	INFO	Listening on 127.0.0.1:43603
+1638509581755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "33957" "-no-remote" "-profile" "/tmp/rust_mozprofilewP6fqP"
+*** You are running in headless mode.
+1638509582188	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewP6fqP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33957/devtools/browser/84bf2436-790e-4b2b-9982-0c12654326c3
+1638509583091	Marionette	INFO	Listening on port 35675
+1638509583183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8251207948857174, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8251207948857174, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9841401334923602, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9841401334923602, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-CVT-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-CVT-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-CVT-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-CVT-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1638509638407	geckodriver	INFO	Listening on 127.0.0.1:46251
+1638509638412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "54523" "-no-remote" "-profile" "/tmp/rust_mozprofileMTecNm"
+*** You are running in headless mode.
+1638509638842	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMTecNm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54523/devtools/browser/87233ff6-733e-4864-85e4-53b276165a20
+1638509639846	Marionette	INFO	Listening on port 39703
+1638509639929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.08519857212227677, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.08519857212227677, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3001749578206384, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3001749578206384, line 3: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HHP-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HHP-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HHP-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HHP-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://s.cafef.vn/ScriptResource.axd?d=qCrCnZXGfauqk8h-G-ZIdMi_FCLXkDujLr8Y-URqrWv2Ki7bgFo2sc-0d6gaizeEaOfPVwAoydpruSpeGEERoJCI4DNCu2J0DZZz3ldLKANTlqj3P4585IGG2ttVToj0n-2ALbHk1vJMca_IMuRGRUrptMwuxCp4q4xxuHnJ8Odv50cW0&t=3f4a792d:5, line 18366: Sys.WebForms.PageRequestManagerServerErrorException: Sys.WebForms.PageRequestManagerServerErrorException: An unknown error occurred while processing the request on the server. The status code returned from the server was: 0
+JavaScript error: https://s.cafef.vn/ScriptResource.axd?d=qCrCnZXGfauqk8h-G-ZIdMi_FCLXkDujLr8Y-URqrWv2Ki7bgFo2sc-0d6gaizeEaOfPVwAoydpruSpeGEERoJCI4DNCu2J0DZZz3ldLKANTlqj3P4585IGG2ttVToj0n-2ALbHk1vJMca_IMuRGRUrptMwuxCp4q4xxuHnJ8Odv50cW0&t=3f4a792d:5, line 18366: Sys.WebForms.PageRequestManagerServerErrorException: Sys.WebForms.PageRequestManagerServerErrorException: An unknown error occurred while processing the request on the server. The status code returned from the server was: 0
+JavaScript error: https://s.cafef.vn/ScriptResource.axd?d=qCrCnZXGfauqk8h-G-ZIdMi_FCLXkDujLr8Y-URqrWv2Ki7bgFo2sc-0d6gaizeEaOfPVwAoydpruSpeGEERoJCI4DNCu2J0DZZz3ldLKANTlqj3P4585IGG2ttVToj0n-2ALbHk1vJMca_IMuRGRUrptMwuxCp4q4xxuHnJ8Odv50cW0&t=3f4a792d:5, line 18366: Sys.WebForms.PageRequestManagerServerErrorException: Sys.WebForms.PageRequestManagerServerErrorException: An unknown error occurred while processing the request on the server. The status code returned from the server was: 0
+JavaScript error: https://s.cafef.vn/ScriptResource.axd?d=qCrCnZXGfauqk8h-G-ZIdMi_FCLXkDujLr8Y-URqrWv2Ki7bgFo2sc-0d6gaizeEaOfPVwAoydpruSpeGEERoJCI4DNCu2J0DZZz3ldLKANTlqj3P4585IGG2ttVToj0n-2ALbHk1vJMca_IMuRGRUrptMwuxCp4q4xxuHnJ8Odv50cW0&t=3f4a792d:5, line 18366: Sys.WebForms.PageRequestManagerServerErrorException: Sys.WebForms.PageRequestManagerServerErrorException: An unknown error occurred while processing the request on the server. The status code returned from the server was: 0
+1638513600543	Marionette	INFO	Stopped listening on port 39703
+1638520116824	geckodriver	INFO	Listening on 127.0.0.1:57665
+1638520117336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41521" "-no-remote" "-profile" "/tmp/rust_mozprofilewOER7k"
+1638520118654	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewOER7k/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41521/devtools/browser/eb464fdd-1874-4574-ab20-75a97e8d06dc
+1638520119987	Marionette	INFO	Listening on port 34691
+1638520120381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.978621206523452, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.978621206523452, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8093815063876851, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.8093815063876851, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-AGF-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-AGF-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-AGF-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-AGF-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638520145938	Marionette	INFO	Stopped listening on port 34691
+1638520207825	geckodriver	INFO	Listening on 127.0.0.1:51465
+1638520207829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60757" "-no-remote" "-profile" "/tmp/rust_mozprofilea3ruGD"
+1638520208658	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea3ruGD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60757/devtools/browser/42236dbd-fae4-4699-b019-9621d18e9668
+1638520209918	Marionette	INFO	Listening on port 45187
+1638520209946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4940330150265181, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4940330150265181, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4159645360942209, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4159645360942209, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VES-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VES-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VES-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-VES-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638520236181	Marionette	INFO	Stopped listening on port 45187
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638520324434	geckodriver	INFO	Listening on 127.0.0.1:56901
+1638520324438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58493" "-no-remote" "-profile" "/tmp/rust_mozprofileZP47ki"
+1638520325302	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZP47ki/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58493/devtools/browser/db18f3c9-67ca-46a2-90e8-52bd475e6a0d
+1638520326483	Marionette	INFO	Listening on port 36877
+1638520326555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.19500170558672048, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.19500170558672048, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.24613484465901692, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.24613484465901692, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HKB-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HKB-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HKB-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HKB-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638520426887	Marionette	INFO	Stopped listening on port 36877
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638520438581	geckodriver	INFO	Listening on 127.0.0.1:57239
+1638520438585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39939" "-no-remote" "-profile" "/tmp/rust_mozprofilelcQ6sL"
+1638520439359	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelcQ6sL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39939/devtools/browser/c15ed5ae-e62c-4c87-b756-e256f2b28148
+1638520440799	Marionette	INFO	Listening on port 33501
+1638520440903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9599905566177458, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9599905566177458, line 3: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.775450419371726, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.775450419371726, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HKB-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HKB-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HKB-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HKB-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638520701542	geckodriver	INFO	Listening on 127.0.0.1:41253
+1638520701546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35807" "-no-remote" "-profile" "/tmp/rust_mozprofilegJ8PBS"
+1638520702386	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegJ8PBS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35807/devtools/browser/668f427c-1ee5-4463-83a8-c2b1eb8c06f5
+1638520703856	Marionette	INFO	Listening on port 37331
+1638520703964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3446433612209736, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3446433612209736, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.641618820108145, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.641618820108145, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-B82-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-B82-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-B82-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-B82-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638520761469	geckodriver	INFO	Listening on 127.0.0.1:35207
+1638520761474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57673" "-no-remote" "-profile" "/tmp/rust_mozprofilerBSBzw"
+1638520762337	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerBSBzw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57673/devtools/browser/3330fe85-ec72-4bdd-ba69-038fc18eeaea
+1638520763473	Marionette	INFO	Listening on port 43991
+1638520764114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3649002223976844, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3649002223976844, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4650772724439848, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4650772724439848, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-B82-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-B82-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-B82-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-B82-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638520870159	Marionette	INFO	Stopped listening on port 43991
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638521955850	geckodriver	INFO	Listening on 127.0.0.1:52993
+1638521955854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "41645" "-no-remote" "-profile" "/tmp/rust_mozprofileu6typM"
+*** You are running in headless mode.
+1638521956308	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileu6typM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41645/devtools/browser/e443ef70-8307-4041-9fa0-02c3609c1ba0
+1638521957347	Marionette	INFO	Listening on port 40567
+1638521957372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.7203356003920892, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.7203356003920892, line 3: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6497765870035778, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6497765870035778, line 3: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HPG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HPG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HPG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HPG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1638522200165	geckodriver	INFO	Listening on 127.0.0.1:40175
+1638522200170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "43731" "-no-remote" "-profile" "/tmp/rust_mozprofile9AUEgv"
+*** You are running in headless mode.
+1638522200591	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9AUEgv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43731/devtools/browser/9e0ea5c8-afa1-4237-9afd-d7d259417bae
+1638522201480	Marionette	INFO	Listening on port 44619
+1638522202244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6456594483831158, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6456594483831158, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.828818725831823, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.828818725831823, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HPG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HPG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HPG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HPG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638522278020	Marionette	INFO	Stopped listening on port 37331
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638522282097	Marionette	INFO	Stopped listening on port 33501
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://s.cafef.vn/ScriptResource.axd?d=qCrCnZXGfauqk8h-G-ZIdMi_FCLXkDujLr8Y-URqrWv2Ki7bgFo2sc-0d6gaizeEaOfPVwAoydpruSpeGEERoJCI4DNCu2J0DZZz3ldLKANTlqj3P4585IGG2ttVToj0n-2ALbHk1vJMca_IMuRGRUrptMwuxCp4q4xxuHnJ8Odv50cW0&t=3f4a792d:5, line 18366: Sys.WebForms.PageRequestManagerServerErrorException: Sys.WebForms.PageRequestManagerServerErrorException: An unknown error occurred while processing the request on the server. The status code returned from the server was: 0
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638526609447	Marionette	INFO	Stopped listening on port 44619
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638612159040	geckodriver	INFO	Listening on 127.0.0.1:53801
+1638612159541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "51213" "-no-remote" "-profile" "/tmp/rust_mozprofilepxyXIy"
+*** You are running in headless mode.
+1638612160981	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepxyXIy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51213/devtools/browser/3e70172a-fc1a-4f30-aa7b-9d550f499283
+1638612164308	Marionette	INFO	Listening on port 46759
+1638612164415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6336987154200819, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6336987154200819, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.03310974321876137, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.03310974321876137, line 3: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-LCG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-LCG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-LCG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-LCG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638612198356	Marionette	INFO	Stopped listening on port 46759
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0014,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638612250744	geckodriver	INFO	Listening on 127.0.0.1:41333
+1638612250764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43741" "-no-remote" "-profile" "/tmp/rust_mozprofile3N58mh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638612252948	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3N58mh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43741/devtools/browser/953fb969-0734-4a5f-a1ac-4eaf7d515ff2
+1638612256798	Marionette	INFO	Listening on port 38045
+1638612257000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.492312268830401, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.492312268830401, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.1418769599969184, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.1418769599969184, line 3: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HAS-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HAS-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HAS-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-HAS-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638612293540	Marionette	INFO	Stopped listening on port 38045
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638612443006	geckodriver	INFO	Listening on 127.0.0.1:51789
+1638612443013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46247" "-no-remote" "-profile" "/tmp/rust_mozprofileXSf5FS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638612444266	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXSf5FS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46247/devtools/browser/0d6bcd38-50e9-4006-9df0-08b46e245add
+1638612446169	Marionette	INFO	Listening on port 45717
+1638612446264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-LCG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-LCG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638612582686	Marionette	INFO	Stopped listening on port 45717
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638612649559	geckodriver	INFO	Listening on 127.0.0.1:37921
+1638612649564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59083" "-no-remote" "-profile" "/tmp/rust_mozprofile0Ue2Xj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638612650432	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0Ue2Xj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59083/devtools/browser/b26a6a3a-36c7-4fae-8f16-9daeeb4d4759
+1638612651782	Marionette	INFO	Listening on port 41139
+1638612651901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.41545855397049813, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.41545855397049813, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5421928968692591, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5421928968692591, line 3: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-ABT-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-ABT-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-ABT-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-ABT-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638612703202	Marionette	INFO	Stopped listening on port 41139
+1638612823360	geckodriver	INFO	Listening on 127.0.0.1:33173
+1638612823365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49747" "-no-remote" "-profile" "/tmp/rust_mozprofiledsdeIt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638612824318	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledsdeIt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49747/devtools/browser/646b9b12-07ce-4d51-88f9-5c0de0e4a00e
+1638612825914	Marionette	INFO	Listening on port 40571
+1638612825994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638613010926	Marionette	INFO	Stopped listening on port 40571
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638798030498	geckodriver	INFO	Listening on 127.0.0.1:35809
+1638798031009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47557" "-no-remote" "-profile" "/tmp/rust_mozprofiletG5I0O"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638798032364	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletG5I0O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47557/devtools/browser/2f49444c-108a-4833-8040-a3bd25df7e81
+1638798033883	Marionette	INFO	Listening on port 36653
+1638798034460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.26205533607086207, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.26205533607086207, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.10683615059653695, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.10683615059653695, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-DS3-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-DS3-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-DS3-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-DS3-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638798045023	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1638798057699	geckodriver	INFO	Listening on 127.0.0.1:39029
+1638798057709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "47627" "-no-remote" "-profile" "/tmp/rust_mozprofilepvQAuX"
+*** You are running in headless mode.
+1638798058388	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepvQAuX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47627/devtools/browser/19cfe207-34b0-4799-85d5-9fed016469f1
+1638798060193	Marionette	INFO	Listening on port 40117
+1638798060238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.25509267600771934, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.25509267600771934, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4056791067563832, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.4056791067563832, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-DS3-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-DS3-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-DS3-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-DS3-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638798068846	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://cdnstoremedia.com/adt/cpc/tvcads/files/js/0520/delux_expandable.js, line 39: TypeError: parent.__ADMWindowisActive is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://s.cafef.vn/ScriptResource.axd?d=qCrCnZXGfauqk8h-G-ZIdMi_FCLXkDujLr8Y-URqrWv2Ki7bgFo2sc-0d6gaizeEaOfPVwAoydpruSpeGEERoJCI4DNCu2J0DZZz3ldLKANTlqj3P4585IGG2ttVToj0n-2ALbHk1vJMca_IMuRGRUrptMwuxCp4q4xxuHnJ8Odv50cW0&t=3f4a792d:5, line 18366: Sys.WebForms.PageRequestManagerServerErrorException: Sys.WebForms.PageRequestManagerServerErrorException: An unknown error occurred while processing the request on the server. The status code returned from the server was: 0
+1638799414020	Marionette	INFO	Stopped listening on port 40117
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638800764965	geckodriver	INFO	Listening on 127.0.0.1:50503
+1638800764974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40849" "-no-remote" "-profile" "/tmp/rust_mozprofile3BeM0i"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638800765848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3BeM0i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40849/devtools/browser/d314ce68-d772-4a7d-9f39-b721ac722963
+1638800767243	Marionette	INFO	Listening on port 40757
+1638800768104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.7032750078524445, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.7032750078524445, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.7708613070247045, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.7708613070247045, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-SJE-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-SJE-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-SJE-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-SJE-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638800778700	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://cdnstoremedia.com/adt/cpc/tvcads/files/js/0520/delux_expandable.js, line 39: TypeError: parent.__ADMWindowisActive is not a function
+1638800868631	Marionette	INFO	Stopped listening on port 40757
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638800877625	geckodriver	INFO	Listening on 127.0.0.1:58783
+1638800877631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46713" "-no-remote" "-profile" "/tmp/rust_mozprofilerKdcfL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638800878478	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerKdcfL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46713/devtools/browser/78f611a1-a96f-4a0e-83f8-127cbf593717
+1638800879773	Marionette	INFO	Listening on port 45033
+1638800879853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-STC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-STC-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638801127615	Marionette	INFO	Stopped listening on port 45033
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638976165002	geckodriver	INFO	Listening on 127.0.0.1:33493
+1638976165515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56689" "-no-remote" "-profile" "/tmp/rust_mozprofile7rTquk"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638976167013	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7rTquk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56689/devtools/browser/ade6a255-1366-4221-a627-daea29361c34
+1638976169354	Marionette	INFO	Listening on port 34069
+1638976169445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.09775877071878425, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.09775877071878425, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9391286281345731, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.9391286281345731, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-PVG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-PVG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-PVG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-PVG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638976282598	geckodriver	INFO	Listening on 127.0.0.1:46585
+1638976282606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49487" "-no-remote" "-profile" "/tmp/rust_mozprofileCSgKUW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638976283444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCSgKUW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49487/devtools/browser/dc1fbe86-4150-447b-8547-22d436881992
+1638976284779	Marionette	INFO	Listening on port 41277
+1638976284830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 370: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5282966180271862, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5282966180271862, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.04822134432129077, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.04822134432129077, line 3: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-TIG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-TIG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 370: unreachable code after return statement
+1638976289939	Marionette	INFO	Stopped listening on port 34069
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-TIG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/Lich-su-giao-dich-TIG-1.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638976601824	Marionette	INFO	Stopped listening on port 41277
